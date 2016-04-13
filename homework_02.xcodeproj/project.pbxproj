@@ -12,6 +12,15 @@
 		18C3B0F01CBD2CF70009E16D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0EE1CBD2CF70009E16D /* Main.storyboard */; };
 		18C3B0F21CBD2CF70009E16D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0F11CBD2CF70009E16D /* Assets.xcassets */; };
 		18C3B0F51CBD2CF70009E16D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0F31CBD2CF70009E16D /* LaunchScreen.storyboard */; };
+		18C3B1051CBD37950009E16D /* NotoSansCJKtc-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0FC1CBD37950009E16D /* NotoSansCJKtc-Black.otf */; };
+		18C3B1061CBD37950009E16D /* NotoSansCJKtc-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0FD1CBD37950009E16D /* NotoSansCJKtc-Bold.otf */; };
+		18C3B1071CBD37950009E16D /* NotoSansCJKtc-DemiLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0FE1CBD37950009E16D /* NotoSansCJKtc-DemiLight.otf */; };
+		18C3B1081CBD37950009E16D /* NotoSansCJKtc-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0FF1CBD37950009E16D /* NotoSansCJKtc-Light.otf */; };
+		18C3B1091CBD37950009E16D /* NotoSansCJKtc-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B1001CBD37950009E16D /* NotoSansCJKtc-Medium.otf */; };
+		18C3B10A1CBD37950009E16D /* NotoSansCJKtc-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B1011CBD37950009E16D /* NotoSansCJKtc-Regular.otf */; };
+		18C3B10B1CBD37950009E16D /* NotoSansCJKtc-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B1021CBD37950009E16D /* NotoSansCJKtc-Thin.otf */; };
+		18C3B10C1CBD37950009E16D /* NotoSansMonoCJKtc-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B1031CBD37950009E16D /* NotoSansMonoCJKtc-Bold.otf */; };
+		18C3B10D1CBD37950009E16D /* NotoSansMonoCJKtc-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B1041CBD37950009E16D /* NotoSansMonoCJKtc-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		18C3B0F11CBD2CF70009E16D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18C3B0F41CBD2CF70009E16D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18C3B0F61CBD2CF70009E16D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18C3B0FC1CBD37950009E16D /* NotoSansCJKtc-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Black.otf"; sourceTree = "<group>"; };
+		18C3B0FD1CBD37950009E16D /* NotoSansCJKtc-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Bold.otf"; sourceTree = "<group>"; };
+		18C3B0FE1CBD37950009E16D /* NotoSansCJKtc-DemiLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-DemiLight.otf"; sourceTree = "<group>"; };
+		18C3B0FF1CBD37950009E16D /* NotoSansCJKtc-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Light.otf"; sourceTree = "<group>"; };
+		18C3B1001CBD37950009E16D /* NotoSansCJKtc-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Medium.otf"; sourceTree = "<group>"; };
+		18C3B1011CBD37950009E16D /* NotoSansCJKtc-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Regular.otf"; sourceTree = "<group>"; };
+		18C3B1021CBD37950009E16D /* NotoSansCJKtc-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-Thin.otf"; sourceTree = "<group>"; };
+		18C3B1031CBD37950009E16D /* NotoSansMonoCJKtc-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansMonoCJKtc-Bold.otf"; sourceTree = "<group>"; };
+		18C3B1041CBD37950009E16D /* NotoSansMonoCJKtc-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansMonoCJKtc-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,15 @@
 				18C3B0F11CBD2CF70009E16D /* Assets.xcassets */,
 				18C3B0F31CBD2CF70009E16D /* LaunchScreen.storyboard */,
 				18C3B0F61CBD2CF70009E16D /* Info.plist */,
+				18C3B0FC1CBD37950009E16D /* NotoSansCJKtc-Black.otf */,
+				18C3B0FD1CBD37950009E16D /* NotoSansCJKtc-Bold.otf */,
+				18C3B0FE1CBD37950009E16D /* NotoSansCJKtc-DemiLight.otf */,
+				18C3B0FF1CBD37950009E16D /* NotoSansCJKtc-Light.otf */,
+				18C3B1001CBD37950009E16D /* NotoSansCJKtc-Medium.otf */,
+				18C3B1011CBD37950009E16D /* NotoSansCJKtc-Regular.otf */,
+				18C3B1021CBD37950009E16D /* NotoSansCJKtc-Thin.otf */,
+				18C3B1031CBD37950009E16D /* NotoSansMonoCJKtc-Bold.otf */,
+				18C3B1041CBD37950009E16D /* NotoSansMonoCJKtc-Regular.otf */,
 			);
 			path = homework_02;
 			sourceTree = "<group>";
@@ -123,9 +150,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18C3B10A1CBD37950009E16D /* NotoSansCJKtc-Regular.otf in Resources */,
+				18C3B1071CBD37950009E16D /* NotoSansCJKtc-DemiLight.otf in Resources */,
+				18C3B1091CBD37950009E16D /* NotoSansCJKtc-Medium.otf in Resources */,
+				18C3B10C1CBD37950009E16D /* NotoSansMonoCJKtc-Bold.otf in Resources */,
+				18C3B10D1CBD37950009E16D /* NotoSansMonoCJKtc-Regular.otf in Resources */,
+				18C3B1081CBD37950009E16D /* NotoSansCJKtc-Light.otf in Resources */,
+				18C3B1051CBD37950009E16D /* NotoSansCJKtc-Black.otf in Resources */,
 				18C3B0F51CBD2CF70009E16D /* LaunchScreen.storyboard in Resources */,
 				18C3B0F21CBD2CF70009E16D /* Assets.xcassets in Resources */,
+				18C3B10B1CBD37950009E16D /* NotoSansCJKtc-Thin.otf in Resources */,
 				18C3B0F01CBD2CF70009E16D /* Main.storyboard in Resources */,
+				18C3B1061CBD37950009E16D /* NotoSansCJKtc-Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
